@@ -29,8 +29,8 @@
    
 for tomorrow:
 
-@Value annotation
-@Configuration
+@Value annotation - done
+@Configuration - done
 How to connect to and execute sqls on database
 how to host on a windows server. (requires spring boot maven compiler plugin)
 how to communicate data btw view(html) and controller and vice versa. 
@@ -38,3 +38,8 @@ how to communicate data btw view(html) and controller and vice versa.
 employeeapp -insert sql /addEmployee - a form with basic emp details, submit will create a db row
 			 delete sql /deleteEmployee?empId=xyz - deletes a employee from database
 			 select sql /showEmployees - shows list of all employees.
+
+			 
+What to explore?
+- how to create a dns for windows server
+- how to run a process in background in windows

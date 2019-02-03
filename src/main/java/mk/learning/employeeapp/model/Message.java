@@ -4,6 +4,13 @@ public class Message {
 	String message;
 	String from;
 	String to;
+	String applicationName;
+	public String getApplicationName() {
+		return applicationName;
+	}
+	public void setApplicationName(String applicationName) {
+		this.applicationName = applicationName;
+	}
 	public String getMessage() {
 		return message;
 	}
